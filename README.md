@@ -6,7 +6,7 @@
 >
 >**DOI:** 
 >
->**Paper authors:** [Insert the top 6 authors of paper (followed by ‘et al’ if more) here] 
+>**Paper authors:** Dr Ting Shi, Dr Jiafeng Pan, Prof. Srinivasa Vittal Katikireddi, Prof. Colin McCowan, Dr Steven Kerr, Dr Utkarsh Agrawal et al.
 >
 >**Data source:** not publically available
 
